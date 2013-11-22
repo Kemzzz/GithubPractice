@@ -1,0 +1,60 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0 plus SQ/ICADD Tables//EN" "html.dtd">
+<HTML>
+<HEAD>
+<TITLE>Instant Internet Corporation</TITLE>
+</HEAD>
+
+<body bgcolor="#000083" text="#FFFFFF" link="#FFFF00" vlink="#00FFFF" alink="#cdcdcd">
+
+<script>
+if (navigator.appName == "Netscape") document.write('<EMBED SRC="/music/" loop=true autostart=true hidden=true>');
+if (navigator.appName == "Microsoft Internet Explorer") document.write('<BGSOUND SRC="/music/" loop=10>');
+</script> 
+
+<center>
+<img src="http://64.19.142.12/www.instanet.com/icons/NewInstanet.gif"><H1>Instant Internet Corporation</H1>
+<HR>
+<H2>Welcome to InstaNet</H2>
+<H3><A HREF="http://home.instanet.com/specials">Special Deals! <IMG SRC="http://64.19.142.11/www.instanet.com/icons/new01.gif"></A></H3>
+InstaNet <A HREF="http://home.instanet.com/members">Members Only!</A><BR>
+InstaNet <A HREF="prices.html"> Service Pricing. </A><BR>
+InstaNet <A HREF="application.html"> Member Application.</A><BR>
+InstaNet <A HREF="register.html"> Online Registration.</A><BR>
+InstaNet <A HREF="map.html">Find us</a>
+<HR><H3> Interesting Sites</H3>
+<A HREF="lapd"><b>Los Angeles Police Department</b></A><br>
+<A HREF="search"><font size=4>Local Business on The Web</font></A><br>
+<a href="users.html"><font size=4>Our User's Pages</font></a><br>
+<a href="http://www.futurenet.co.uk/netmag/Issue1/Easy/index.html"><b>Easy Internet</b></a><br> 
+<A HREF="http://www.altavista.digital.com"><b>The Best 'Alta Vista' Search Site</b></A><br>
+<A HREF="http://www.yahoo.com"><b>The Famous Yahoo Server</b></A><br>
+<A HREF="http://sunsite.unc.edu"> <b>Sunsite at UNC</b></A><br>
+<A HREF="http://www.scubed.com/caltrans/la/la_transnet.html"><b> Los Angeles Traffic</b></A><BR>
+<A HREF="http://www.tidusa.com"><b>The Planet Earth Home Page</b></A><br>
+<a href="http://www.alumni.caltech.edu/~dank/isdn/">Dan Kegel's ISDN Page</a><BR>
+<A HREF="http://www.ucc.ie/info/net/htmldoc.html"> <b>How to Write HTML</b></A><br>
+<A HREF="http://www.utoronto.ca/webdocs/HTMLdocs/NewHTML/htmlindex.html"><b>HTML Documentation Index </b></A>
+
+<HR><H3>How can I get Online with InstaNet?<b> Call 818-713-1313</b></H3>
+InstaNet <A HREF="prices.html"> Service Pricing.</A><BR> 
+InstaNet <A HREF="application.html"> Member Application.</A><BR>
+InstaNet <A HREF="register.html"> Online Registration.</A><BR>
+Or more information 
+<A HREF="mailto:info@instanet.com">Email to info@instanet.com</A>.
+
+<HR><H3>Setting up your personal Web Page</H3>
+<B><A HREF="http://www.instanet.com/WebHelp">WebHelp</A></B> Information and tutorials on
+setting up your Web Pages is here.<BR>This was my personal web page and it tells 
+you how to set up your own Web Pages.
+<BR>Some new items<B>
+<BR>GIF Animations <IMG SRC="http://64.19.142.11/www.instanet.com/icons/new01.gif">
+<BR>Search Engine <IMG SRC="http://64.19.142.11/www.instanet.com/icons/new01.gif">
+</B><BR>EMail <A HREF="mailto:timl@instanet.com">Tim Laren</A> for more info.</center>
+<HR>
+<center><img src="http://64.19.142.12/www.instanet.com/icons/apache_pb2_ani.gif"</center>
+<hr>
+<CENTER>This page has been accessed times.</CENTER>
+</BODY>
+</HTML>
