@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -123,9 +122,9 @@ $(document).ready(function() {
 </script>
 
 <style type="text/css">
-.skinBg { background-color: #FD001C; }
+.skinBg { background-color: #c20015; }
 .modules_td { background-color: transparent; }
-body { background-color: #F9FB04; background-image:none; }
+body { background-color: #FFFFFF; background-image:none; }
 </style>
 </head>
 <body>
@@ -189,7 +188,7 @@ padding-left:15px;">
 	<div  class="widget-body" >
 	<div id="about"></div><font color="#660000"><h2>Welcome</h2></font>
 <br>
-<p align="justify"><font color="#000" size="2">
+<p align="justify"><font color="#000" size="3">
   <b>King Bee Chinese Restaurant</b> that serves authentic Chinese Cuisine originated in Brgy. Manggahan, General Trias, province of Cavite on August 17, 2001. The restaurant has a wide array of various Chinese recipes such as dimsums, roast specialties, noodles soup and other main courses cooked in authentic way. The company has hired the expertise of International Chefs from Hong Kong who personally prepare the menu and manage the kitchen and commissary. The operation is being managed by best experienced professionals in the field of food services.
   <br><br>
 The company was able to create awareness and clientele relationship among the business communities of: GATEWAY BUSINESS PARK, FIRST CAVITE INDUSTRIAL ESTATE and among local residents of General Trias, Trece Martirez, Dasmarinas, Cavite, part of Amadeo and other nearby towns. To top it all, even the golfers of Eagle Ridge Residential Estates, where you can find the biggest golf course in the Philippines, look forward to dine in our place after an enjoyable game.
