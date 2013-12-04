@@ -315,7 +315,7 @@ body {
 	margin-top:-20px;
 }
 #footer_info {
-	padding-top: 20px;
+	padding-top: 80px;
 }
 #footer_info, #footer_info a {
 	color: #fff;
