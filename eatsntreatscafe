@@ -1,5 +1,4 @@
 
-
 <!doctype html>
 <html>
 <html xml:lang="en-gb" lang="en-gb" >
@@ -274,7 +273,7 @@ body {
 }
 
 .white {
-	background-color: white;
+	background-color: black;
 	}
 
 .wrapper {
